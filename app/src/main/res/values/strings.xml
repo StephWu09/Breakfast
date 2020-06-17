@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">帥章魚訂餐系統</string>
+    <string-array name="Food">
+        <item>蛋餅</item>
+        <item>吐司</item>
+        <item>漢堡</item>
+        <item>單點</item>
+        <item>飲料</item>
+    </string-array>
+</resources>
